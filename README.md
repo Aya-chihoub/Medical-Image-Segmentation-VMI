@@ -1,10 +1,10 @@
-# Medical Image Segmentation — VMI
+# Medical Image Segmentation — VMI Lab
 
-A practical project exploring and comparing classical image segmentation techniques and deep learning on three types of medical images: **brain MRI**, **cardiac MRI**, and **retinal fundus images**.
+A laboratory assignment exploring and comparing classical image segmentation techniques and deep learning on three types of medical images: **brain MRI**, **cardiac MRI**, and **retinal fundus images**.
 
-Developed as part of the **M2 Vision et Machine Intelligente (VMI)** programme at **Université Paris Cité**.
+Completed as part of the **M2 Vision et Machine Intelligente (VMI)** programme at **Université Paris Cité**.
 
-## Objectives
+## Lab objectives
 
 The aim is to segment different anatomical structures and evaluate the methods using visual comparisons and the **Dice similarity coefficient**:
 
@@ -22,7 +22,7 @@ The aim is to segment different anatomical structures and evaluate the methods u
 
 The U-Net models use **PyTorch** and **MONAI**. The notebook includes image preprocessing, mask construction, model training, visualization, and Dice evaluation.
 
-## Experimental results
+## Lab results
 
 The following Dice scores are reported in the notebook.
 
@@ -91,7 +91,7 @@ A GPU-enabled Colab runtime is recommended for U-Net training. The notebook uses
 - PyTorch, MONAI
 - Google Colab (for the original Drive-based workflow)
 
-## Key takeaways
+## Observations and takeaways
 
 - Segmentation quality depends strongly on the anatomical structure and the method's assumptions.
 - A carefully selected ROI can make simple intensity thresholding more effective.
