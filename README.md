@@ -1,6 +1,6 @@
 # Medical Image Segmentation — VMI Lab
 
-A laboratory assignment exploring and comparing classical image segmentation techniques and deep learning on three types of medical images: **brain MRI**, **cardiac MRI**, and **retinal fundus images**.
+An assignment exploring and comparing classical image segmentation techniques and deep learning on three types of medical images: **brain MRI**, **cardiac MRI**, and **retinal fundus images**.
 
 Completed as part of the **M2 Vision et Machine Intelligente (VMI)** programme at **Université Paris Cité**.
 
